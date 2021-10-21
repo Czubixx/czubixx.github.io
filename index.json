@@ -1,0 +1,11 @@
+{ 
+  "updateNum":"1",
+   "updateList":[
+	{
+	    "name": "test update",
+	    "date": "21-10-2021",
+	    "description": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+	    "url": "https://czubixx.github.io/test.bin"
+	}
+   ]
+}
